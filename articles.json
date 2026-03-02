@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "id": "c5d31bba34cbdad43335e6557a9b44a0e54a9530",
+      "title": "The Vivo X300 Ultra is going global. Here's why rivals should be worried",
+      "url": "https://www.msn.com/en-gb/lifestyle/shopping/the-vivo-x300-ultra-is-going-global-here-s-why-rivals-should-be-worried/ar-AA1XlqRO",
+      "image_url": "https://www.stuff.tv/wp-content/uploads/sites/2/2026/03/Vivo-X300-Ultra-MWC-2026-teaser-lead.jpg?quality=75",
+      "summary": "Vivo's new X300 Ultra flagship ships worldwide, featuring Zeiss optics, a periscope mega‑zoom lens and a suite of AI‑enhanced camera modes, positioning it as a serious competitor to Samsung and Apple in the premium smartphone market.",
+      "source": "Stuff",
+      "published_date": null,
+      "relevance_score": 0.95,
+      "final_title": "Vivo X300 Ultra Launches Worldwide, Rivals Brace for Impact",
+      "final_summary": "Vivo is unleashing its X300 Ultra flagship - featuring Zeiss optics and a mega-zoom lens - across the globe, signaling a bold push into the premium smartphone arena and putting pressure on rivals to step up.",
+      "critic_feedback": {
+        "approved": false,
+        "feedback": "The original title is a bit wordy and the summary could be punchier for an Instagram Story. Streamlining the language makes it more eye‑catching and concise.",
+        "improved_title": "Vivo X300 Ultra Launches Worldwide, Rivals Brace for Impact",
+        "improved_summary": "Vivo is unleashing its X300 Ultra flagship - featuring Zeiss optics and a mega-zoom lens - across the globe, signaling a bold push into the premium smartphone arena and putting pressure on rivals to step up."
+      },
+      "status": {
+        "fetched_at": "2026-03-02T12:11:49+00:00",
+        "critic_done": true,
+        "image_generated": true,
+        "image_path": "generated_stories\\c5d31bba34cbdad43335e6557a9b44a0e54a9530.jpg",
+        "image_generated_at": "2026-03-02T12:11:52+00:00",
+        "uploaded": false,
+        "upload_attempted": false,
+        "last_error": null
+      },
+      "updated_at": "2026-03-02T12:37:00+00:00"
+    },
+    {
+      "id": "8f78e13464c71e174d8afa6f9d5a215d21278fcb",
+      "title": "Smart, Durable, and Eco-Friendly: 5 Top-Rated Godrej Automatic Washers for Every Home",
+      "url": "https://www.herzindagi.com/your-picks/home-solutions-electronics/smart-durable-and-eco-friendly-top-rated-godrej-automatic-washers-for-every-home-12636",
+      "image_url": "https://images.herzindagi.info/article-img/2026/03/02/1200x675/5-top-rated-godrej-automatic-washers-706476.webp",
+      "summary": "Godrej's latest automatic washing machines combine fuzzy‑logic load sensing, high‑efficiency motors and smart connectivity to cut water and electricity use, reflecting a growing consumer demand for eco‑friendly home appliances.",
+      "source": "HerZindagi",
+      "published_date": null,
+      "relevance_score": 0.6,
+      "final_title": "5 Must‑Have Godrej Washers: Smart, Tough & Eco‑Friendly",
+      "final_summary": "Godrej’s new washers use fuzzy‑logic sensors, high‑efficiency motors and Wi‑Fi connectivity to slash water and power use, delivering greener cleaning for every home.",
+      "critic_feedback": {
+        "approved": false,
+        "feedback": "The title is a bit wordy and could be snappier for Instagram; the summary is too technical and long, so it needs a clearer, benefit‑focused rewrite.",
+        "improved_title": "5 Must‑Have Godrej Washers: Smart, Tough & Eco‑Friendly",
+        "improved_summary": "Godrej’s new washers use fuzzy‑logic sensors, high‑efficiency motors and Wi‑Fi connectivity to slash water and power use, delivering greener cleaning for every home."
+      },
+      "status": {
+        "fetched_at": "2026-03-02T12:37:00+00:00",
+        "critic_done": true,
+        "image_generated": true,
+        "image_path": "generated_stories\\8f78e13464c71e174d8afa6f9d5a215d21278fcb.jpg",
+        "image_generated_at": "2026-03-02T12:37:04+00:00",
+        "uploaded": false,
+        "upload_attempted": false,
+        "last_error": null
+      },
+      "updated_at": "2026-03-02T12:37:04+00:00"
+    }
+  ]
+}

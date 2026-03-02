@@ -1,0 +1,14 @@
+# Local secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs
+generated_stories/
+latest_story.jpg
+test_story.jpg
+
+# Optional local artifacts
+clash-display-font.zip
